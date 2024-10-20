@@ -1,0 +1,1 @@
+It is a simple weather app that displayes the location your searched for along with current temperature and the last updated information. It displays a hourly forecast with date, time and the current temperature of the hour. In addition to that, it aslo displays the daily forecast for the next 7 days of the week.
